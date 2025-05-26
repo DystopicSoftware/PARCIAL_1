@@ -26,5 +26,5 @@ comparar el rendimiento de los tres mejores regresores
 
 + Y tambien esta el codigo de la aplicacion de streamlit en : APP.ipynb
 
-PDT: (el dashboard tiene la logica de ejecucion de acuerdo a como se ejecuta el cuaderno, se puede arreglar, pero por temas de tiempo y robustez se deja asi como esta )
-link del dashboard: https://4e1e-35-185-9-112.ngrok-free.app/
+PDT: (el dashboard tiene la logica de ejecucion de acuerdo a como se ejecuta el cuaderno, se puede arreglar, pero por temas de tiempo y robustez se deja asi como está )
+link del dashboard: https://7c7d-35-185-9-112.ngrok-free.app/
