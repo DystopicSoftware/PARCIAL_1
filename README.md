@@ -22,7 +22,7 @@ evaluacion con su respectiva desviacion estandar para las siguientes medidas de 
  Se construye un Dashboard a partir del paquete Streamlit: https://streamlit.io/ que permita visualizar de forma intuitiva el dataset y
 comparar el rendimiento de los tres mejores regresores
 
-+ En este repositorio se encuentra la teoria (archivo .pdf) de los modelos analizados en el codigo: PARCIAL_TAM.ipynb
++ En este repositorio se encuentra la teoria (PARCIAL_TAM1.pdf) de los modelos analizados en el codigo: PARCIAL_TAM.ipynb
 
 + Y tambien esta el codigo de la aplicacion de streamlit en : APP.ipynb
 
